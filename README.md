@@ -1,1 +1,2 @@
-# my_first_repository
+# This is my read me file
+-I should be doing my homework
